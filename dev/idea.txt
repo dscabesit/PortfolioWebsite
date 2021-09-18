@@ -1,0 +1,5 @@
+Testimonials:
+- Image
+- Name
+- Designation
+- Comments
