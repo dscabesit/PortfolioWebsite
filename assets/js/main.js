@@ -67,6 +67,7 @@ nextBtn.addEventListener("click", function () {
     showPerson(currentTestimonial);
 });
 
+
 // show previous testimonial
 prevBtn.addEventListener("click", function () {
     currentTestimonial--;
